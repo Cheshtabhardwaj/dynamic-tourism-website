@@ -1,2 +1,2 @@
-# dynamic-tourism-website
-dynamic tourism website using html css and javascript 
+rock paper scissor game
+rock paper scissors game using html css and javascript 
